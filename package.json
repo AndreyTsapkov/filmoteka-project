@@ -2,20 +2,20 @@
   "name": "filmoteka_team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://annnacaesar.github.io/filmoteka_team-project",
+  "homepage": "https://andreytsapkov.github.io/filmoteka-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka_team-project/"
+    "build": "parcel build src/*.html --public-url /filmoteka-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/annnacaesar/filmoteka_team-project.git"
+    "url": "git+https://github.com/andreytsapkov/filmoteka-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/annnacaesar/filmoteka_team-project/issues"
+    "url": "https://github.com/andreytsapkov/filmoteka-project/issues"
   },
   "dependencies": {
     "basiclightbox": "^5.0.4",
